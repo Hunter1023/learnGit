@@ -1,7 +1,5 @@
-Git is a distributed version control system.  
-Git is a free software distributed under the GPL.  
-Creating a new branch is quick and simple.  
-merge branch  
+## 关于git的学习内容请移步**Wiki**栏  
 
-***
-以上是关于该repository的相关历史操作，关于git的学习内容请看**WIKI**栏。
+## 声明：  
+关于该repository的内容，是基于[廖雪峰的官方网站-Git教程](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)和网易云课堂的Java课程内容整合而成。**仅作为个人学习查看用**。  
+其中，图片出处多来自于[廖雪峰的官方网站-Git教程](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)。若有侵权，请告知删除。
